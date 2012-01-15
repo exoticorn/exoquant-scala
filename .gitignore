@@ -1,0 +1,8 @@
+target/
+*~
+.target/
+.cache
+.classpath
+test.jpg
+out.png
+.project
